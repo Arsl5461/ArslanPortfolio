@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ca998b2.css",
+    "main.js": "/static/js/main.bcfbb093.js",
+    "static/media/arslan.jpg": "/static/media/arslan.4de22b58565340cd1013.jpg",
+    "index.html": "/index.html",
+    "main.7ca998b2.css.map": "/static/css/main.7ca998b2.css.map",
+    "main.bcfbb093.js.map": "/static/js/main.bcfbb093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca998b2.css",
+    "static/js/main.bcfbb093.js"
+  ]
+}
